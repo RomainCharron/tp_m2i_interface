@@ -5,9 +5,10 @@
  */
 package tp_interface.Vehicule;
 
+
 /**
- *
- * @author Formation
+ * Objet Velo heritee de Vehicule implementant l'interface IV_Roulent
+ * @author Charron Romain
  */
 public class Velo extends Vehicule implements IV_Roulent{
 

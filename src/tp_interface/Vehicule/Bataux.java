@@ -5,9 +5,10 @@
  */
 package tp_interface.Vehicule;
 
+
 /**
- *
- * @author Formation
+ * Objet Bataux heritee de Vehicule implementant l'interface IV_Flotent
+ * @author Charron Romain
  */
 public class Bataux extends Vehicule implements IV_Flotent{
 

@@ -5,18 +5,25 @@
  */
 package tp_interface.Vehicule;
 
+
 /**
- *
- * @author Formation
+ * Objet Vehicule
+ * @author Charron Romain
  */
 public class Vehicule {
     
+    /**
+     * test nom nomer 
+     */
     private String Nom ;
 
     public String getNom() {
         return Nom;
     }
-
+/**
+ * 
+ * @param Nom 
+ */
     public void setNom(String Nom) {
         this.Nom = Nom;
     }

@@ -5,9 +5,10 @@
  */
 package tp_interface.Vehicule;
 
+
 /**
- *
- * @author Formation
+ * Objet Hydravion heritee de Avion implementant l'interface IV_Flotent et IV_Volent
+ * @author Charron Romain
  */
 public class Hydravion extends Avion implements IV_Flotent{
 

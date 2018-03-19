@@ -6,8 +6,8 @@
 package tp_interface.Vehicule;
 
 /**
- *
- * @author Formation
+ * Identifie les vehicule Volent
+ * @author Charron Romain
  */
 public interface IV_Volent {
     

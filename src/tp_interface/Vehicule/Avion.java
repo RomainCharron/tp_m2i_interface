@@ -6,8 +6,8 @@
 package tp_interface.Vehicule;
 
 /**
- *
- * @author Formation
+ * Objet Avion heritee de Vehicule implementant l'interface IV_Volent
+ * @author Charron Romain
  */
 public class Avion extends Vehicule implements IV_Volent{
 

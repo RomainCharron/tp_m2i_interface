@@ -6,11 +6,14 @@
 package tp_interface.Vehicule;
 
 /**
- *
- * @author Formation
+ * Definie des class pour identifier les vehicule volent
+ * @author Charron Romain
  */
 public interface IV_Flotent {
     
+    /**
+     * 
+     */
     public void floter();
     
 }

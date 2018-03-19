@@ -5,9 +5,10 @@
  */
 package tp_interface.Vehicule;
 
+
 /**
- *
- * @author Formation
+ * Objet Moto heritee de Vehicule implementant l'interface IV_Roulent
+ * @author Charron Romain
  */
 public class Moto extends Vehicule implements IV_Roulent{
 
